@@ -164,5 +164,7 @@ if __name__ == "__main__":
     c7 = erc20parser(address = '0xdac17f958d2ee523a2206206994597c13d831ec7', collection = 'USDT', decimals = 6)
     c8 = erc20parser(address = '0x21ab6c9fac80c59d401b37cb43f81ea9dde7fe34', collection = 'BRC', decimals = 8)
     c9 = erc20parser(address = '0x8e1b448ec7adfc7fa35fc2e885678bd323176e34', collection = 'EGT', decimals = 18)
+    c10 = erc20parser(address = '0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9', collection = 'FTT', decimals = 18)
+    c11 = erc20parser(address = '0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f', collection = 'CET', decimals = 18)
     
     
