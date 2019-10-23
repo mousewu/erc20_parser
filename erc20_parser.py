@@ -166,5 +166,6 @@ if __name__ == "__main__":
     c9 = erc20parser(address = '0x8e1b448ec7adfc7fa35fc2e885678bd323176e34', collection = 'EGT', decimals = 18)
     c10 = erc20parser(address = '0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9', collection = 'FTT', decimals = 18)
     c11 = erc20parser(address = '0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f', collection = 'CET', decimals = 18)
+    c12 = erc20parser(address= '0x931ad0628aa11791c26ff4d41ce23e40c31c5e4e', collection='PGS', decimals=8)
     
     
